@@ -1,0 +1,1 @@
+Create a Sinatra Application that allows anyone to add music (songs) to a public wall to share with the world. This app will be so open and chaotic that visitors don't even need to register a user account in order to post songs.
